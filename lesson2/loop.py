@@ -5,7 +5,7 @@ sum_of_elements = 0
 for element in a:
 	if element == 3:
 		# print('This element is 3. Prev sum: {}'.format(sum_of_elements))
-		break
+		continue
 	sum_of_elements = sum_of_elements + element
 else:
 	print('Non break')
