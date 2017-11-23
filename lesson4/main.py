@@ -56,8 +56,3 @@ company.show_people()
 # p2.full_name()
 
 # p1.full_name()
-
-
-
-
-
